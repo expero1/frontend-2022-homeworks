@@ -7,6 +7,7 @@
 
 // ======== OBJECTS DEFINITIONS ========
 // Define your objects here
+
 const habitats = [];
 const PROPS = [
   "species",
